@@ -31,3 +31,4 @@ Python, Pandas, Matplotlib, Seaborn, Google Colab.
 The large dataset (42,000+ rows) froze the charts initially. I fixed this by using data sampling. The Price column was formatted as text with commas, which I fixed using Pandas string replacement.
 
 ## Future Improvements
+As a first-year student, I want to learn machine learning next so I can predict exact future prices.
